@@ -1,0 +1,17 @@
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\bin\Debug\VTYSodev.exe.config
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\bin\Debug\VTYSodev.exe
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\bin\Debug\VTYSodev.pdb
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.csproj.AssemblyReference.cache
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.csproj.SuggestedBindingRedirects.cache
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form1.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Properties.Resources.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.csproj.GenerateResource.cache
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.csproj.CoreCompileInputs.cache
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.exe
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.pdb
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form2.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form3.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form4.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form5.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form6.resources
+C:\Users\dogan\source\repos\VTYSodev\VTYSodev\obj\Debug\VTYSodev.Form7.resources
